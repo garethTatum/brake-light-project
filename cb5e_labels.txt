@@ -1,0 +1,12 @@
+D:/InspiritAI/Videos-Unprocessed/b1dce572-c6a8cb5e.mov,100,1
+D:/InspiritAI/Videos-Unprocessed/b1dce572-c6a8cb5e.mov,200,0
+D:/InspiritAI/Videos-Unprocessed/b1dce572-c6a8cb5e.mov,300,0
+D:/InspiritAI/Videos-Unprocessed/b1dce572-c6a8cb5e.mov,400,0
+D:/InspiritAI/Videos-Unprocessed/b1dce572-c6a8cb5e.mov,500,0
+D:/InspiritAI/Videos-Unprocessed/b1dce572-c6a8cb5e.mov,600,1
+D:/InspiritAI/Videos-Unprocessed/b1dce572-c6a8cb5e.mov,700,1
+D:/InspiritAI/Videos-Unprocessed/b1dce572-c6a8cb5e.mov,800,1
+D:/InspiritAI/Videos-Unprocessed/b1dce572-c6a8cb5e.mov,900,1
+D:/InspiritAI/Videos-Unprocessed/b1dce572-c6a8cb5e.mov,1000,1
+D:/InspiritAI/Videos-Unprocessed/b1dce572-c6a8cb5e.mov,1100,0
+D:/InspiritAI/Videos-Unprocessed/b1dce572-c6a8cb5e.mov,1200,1
